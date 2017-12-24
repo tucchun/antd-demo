@@ -15,10 +15,10 @@
   "author": "tucchun",
   "license": "ISC",
   "dependencies": {
-    "antd": "^3.0.2",
-    "react": "^15.6.1",
-    "react-dom": "^15.6.1",
-    "moment": "^2.19.3"
+    "antd": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "moment": "2"
   },
   "devDependencies": {
     "autoprefixer": "7.1.6",
